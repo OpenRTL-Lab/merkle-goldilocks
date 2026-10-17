@@ -1,0 +1,16 @@
+OpenRTL-Header-Begin
+OpenRTL — Open-source hardware accelerators.
+Organization: https://github.com/OpenRTL-Lab
+Website: https://openrtl.top/
+
+Project: Goldilocks Merkle Hardware Accelerator
+Chisel hardware for Poseidon2 leaf hashing, Merkle trees and authentication paths.
+Repository: https://github.com/OpenRTL-Lab/merkle-goldilocks
+File: operators/merkle/vendor/poseidon2/cmodel/parameters.h
+
+SPDX-FileCopyrightText: 2022 The Plonky3 Authors
+Attribution: Plonky3 Poseidon2 parameters; upstream MIT notices remain applicable.
+Upstream parameter material, not an OpenRTL-original parameter set.
+SPDX-License-Identifier: MIT
+See LICENSE and applicable third-party notices.
+OpenRTL-Header-End
